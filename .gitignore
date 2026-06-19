@@ -1,6 +1,4 @@
 .env
-shloka_embeddings.json
-theme_embeddings.json
 __pycache__/
 *.pyc
 .streamlit/secrets.toml
