@@ -1,0 +1,419 @@
+[
+  {
+    "broad_category": "A. Gita Philosophy and Metaphysics",
+    "description": "Classical Vedantic concepts, the four yogas, gunas, and cosmological principles — the doctrinal core the Gita teaches",
+    "subcategories": [
+      {
+        "id": 1,
+        "name": "Dharma and Cosmic Order",
+        "string": "Dharma and Cosmic Order - righteous duty, moral law, right conduct aligned with one's nature and role, cosmic harmony governed by universal ethical principles; adharma as violation causing injustice and disorder"
+      },
+      {
+        "id": 2,
+        "name": "Karma and Karma Phala",
+        "string": "Karma and Karma Phala - law of cause and effect where actions produce consequences across time; karma yoga as selfless action without attachment to fruits or rewards; moral accountability for all deeds"
+      },
+      {
+        "id": 3,
+        "name": "The Four Paths of Yoga",
+        "string": "The Four Paths of Yoga - karma yoga as selfless action, bhakti yoga as loving devotion and surrender to the Divine, jnana yoga as wisdom and self-inquiry, raja yoga as meditation and disciplined control of mind; integral synthesis of all paths"
+      },
+      {
+        "id": 4,
+        "name": "Atman, Brahman, and Self-Realization",
+        "string": "Atman, Brahman, and Self-Realization - the individual eternal soul beyond body and mind; Brahman as ultimate absolute reality; Paramatman as supreme self in all beings; self-realization as direct experience of one's true nature; immortality of the soul"
+      },
+      {
+        "id": 5,
+        "name": "Maya, Avidya, and Ignorance",
+        "string": "Maya, Avidya, and Ignorance - illusion of material reality mistaken as ultimate truth; spiritual ignorance and blindness to one's true nature; Viveka as discrimination between real and unreal, eternal and transient"
+      },
+      {
+        "id": 6,
+        "name": "Moksha, Samsara, and Liberation",
+        "string": "Moksha, Samsara, and Liberation - liberation from the cycle of birth death and rebirth; samsara driven by desire and ignorance; bondage versus freedom; path toward ultimate spiritual freedom"
+      },
+      {
+        "id": 7,
+        "name": "Detachment, Renunciation, and Vairagya",
+        "string": "Detachment, Renunciation, and Vairagya - freedom from attachment to outcomes possessions and desires; vairagya as renunciation of worldly craving; voluntary relinquishing of attachments; non-possessive engagement with life"
+      },
+      {
+        "id": 8,
+        "name": "Ego, Ahamkara, and False Identity",
+        "string": "Ego, Ahamkara, and False Identity - false identification with the individual self leading to pride and separation; suffering caused by over-identification with personality body or status; ego as root of spiritual ignorance"
+      },
+      {
+        "id": 9,
+        "name": "Shraddha, Satya, and Ahimsa",
+        "string": "Shraddha, Satya, and Ahimsa - deep spiritual conviction and faith; truth as alignment with ultimate reality and integrity between thought and speech; non-violence and harmlessness in thought word and action"
+      },
+      {
+        "id": 10,
+        "name": "Yajna, Seva, and Selfless Contribution",
+        "string": "Yajna, Seva, and Selfless Contribution - sacred sacrifice and offering for higher purpose; selfless service without expectation of reward; contribution to the cosmic and social order"
+      },
+      {
+        "id": 11,
+        "name": "Samatva, Abhayam, and Equanimity",
+        "string": "Samatva, Abhayam, and Equanimity - equal-mindedness in pleasure and pain success and failure; fearlessness as divine courage free from existential anxiety; balanced mind as spiritual ideal"
+      },
+      {
+        "id": 12,
+        "name": "Sattva, Rajas, and Tamas",
+        "string": "Sattva, Rajas, and Tamas - the three gunas shaping all human nature; sattva as clarity balance purity and luminous understanding; rajas as passion restlessness ambition and agitation; tamas as inertia lethargy delusion and inability to act; their interplay determines all thought feeling and behavior"
+      },
+      {
+        "id": 13,
+        "name": "Rajasic Distress and Tamasic Suffering",
+        "string": "Rajasic Distress and Tamasic Suffering - rajasic suffering from overambition stress competition anger and hyperactivity; tamasic suffering as depression apathy procrastination numbness and inability to begin; sattvic aspiration toward clarity equanimity and disciplined engagement"
+      }
+    ]
+  },
+  {
+    "broad_category": "B. Action, Duty, and Ethics",
+    "description": "How one should act in the world — karma, dharma, moral dilemmas, conflict between obligations",
+    "subcategories": [
+      {
+        "id": 14,
+        "name": "Duty, Obligation, and Righteous Action",
+        "string": "Duty, Obligation, and Righteous Action - moral obligation to act according to one's dharma; tension between duty and emotional bonds; tension between duty and personal desire; performing duty fully without clinging to results; righteous conduct regardless of consequences; professional civic and ethical responsibility"
+      },
+      {
+        "id": 15,
+        "name": "Action versus Inaction",
+        "string": "Action versus Inaction - paralysis of will and dilemma of whether to engage or withdraw; inaction as spiritual danger when action is required; procrastination and avoidance driven by fear or confusion; overcommitment exhaustion from taking on more than one can sustain"
+      },
+      {
+        "id": 16,
+        "name": "Burden of Choice and Decision",
+        "string": "Burden of Choice and Decision - existential weight of making consequential decisions; inability to commit between options; analysis paralysis; the moment requiring an irreversible choice"
+      },
+      {
+        "id": 17,
+        "name": "Moral Conflict and Ethical Dilemma",
+        "string": "Moral Conflict and Ethical Dilemma - internal struggle when competing duties oppose each other; complex situations with no clean answer requiring discernment; competing loyalties between family truth and society; righteous conflict fought to uphold justice"
+      },
+      {
+        "id": 18,
+        "name": "Violence, Non-Violence, and Just Action",
+        "string": "Violence, Non-Violence, and Just Action - tension between necessity of force and principle of harmlessness; question of whether just goals justify harmful means; ahimsa as foundational ethical principle"
+      },
+      {
+        "id": 19,
+        "name": "Corruption, Complicity, and Moral Injury",
+        "string": "Corruption, Complicity, and Moral Injury - guilt from going along with injustice or staying silent; facing dishonesty in organizations systems or authority; whistleblowing and moral courage to expose wrongdoing; deep wound from being forced to act against one's values"
+      }
+    ]
+  },
+  {
+    "broad_category": "C. Inner Life — Difficult States",
+    "description": "Painful emotional and psychological states — the full suffering spectrum a person arrives with",
+    "subcategories": [
+      {
+        "id": 20,
+        "name": "Attachment, Clinging, and Possessiveness",
+        "string": "Attachment, Clinging, and Possessiveness - emotional dependence on people outcomes possessions or identity; refusal to let go of what is lost changing or unavailable; need to own or control people and things; romantic obsession and inability to release a harmful relationship"
+      },
+      {
+        "id": 21,
+        "name": "Desire, Craving, and Greed",
+        "string": "Desire, Craving, and Greed - intense longing for sensory pleasure recognition or material gain; excessive desire for wealth power or status; consumerism and equating worth with possessions; the suffering born from wanting what one does not have"
+      },
+      {
+        "id": 22,
+        "name": "Addiction, Compulsion, and Digital Distraction",
+        "string": "Addiction, Compulsion, and Digital Distraction - inability to stop destructive behavior despite awareness of harm; social media addiction and compulsive engagement with digital validation; distraction technology and inability to focus; fear of missing out"
+      },
+      {
+        "id": 23,
+        "name": "Letting Go, Impermanence, and Renunciation",
+        "string": "Letting Go, Impermanence, and Renunciation - releasing what cannot be controlled; accepting endings and transitions; truth that all things change and nothing worldly lasts; voluntary relinquishing of attachments to find inner freedom"
+      },
+      {
+        "id": 24,
+        "name": "Fear, Anxiety, and Insecurity",
+        "string": "Fear, Anxiety, and Insecurity - feeling of threat or danger real or imagined; chronic unease about uncertain outcomes; persistent sense of not being enough or not belonging; feeling emotionally exposed and vulnerable; inability to tolerate not knowing"
+      },
+      {
+        "id": 25,
+        "name": "Existential Dread, Fear of Death, and Fear of Failure",
+        "string": "Existential Dread, Fear of Death, and Fear of Failure - deep fear about mortality meaninglessness and the unknown; terror of one's own ending or loss of loved ones; paralysis caused by belief that failure is catastrophic or shameful; fear of judgment rejection or humiliation"
+      },
+      {
+        "id": 26,
+        "name": "Specific Anxieties",
+        "string": "Specific Anxieties - social anxiety about judgment and rejection; health anxiety about illness and bodily symptoms; financial anxiety about money debt and insecurity; climate anxiety about environmental collapse; phobia and irrational fear disproportionate to actual threat"
+      },
+      {
+        "id": 27,
+        "name": "Grief, Loss, and Bereavement",
+        "string": "Grief, Loss, and Bereavement - deep sorrow from loss bereavement or ending of something precious; acute grief from death of a loved one; anticipatory grief before an expected loss; lamentation and outward expression of mourning"
+      },
+      {
+        "id": 28,
+        "name": "Sorrow, Despair, and Hopelessness",
+        "string": "Sorrow, Despair, and Hopelessness - prolonged sadness that settles like weight; melancholy and lingering reflective sadness; complete loss of hope and conviction nothing will improve; inability to imagine a positive future; intense misery and comprehensive unhappiness"
+      },
+      {
+        "id": 29,
+        "name": "Disillusionment, Dejection, and Nostalgia",
+        "string": "Disillusionment, Dejection, and Nostalgia - low spirits from disappointment; painful discovery that something treasured was not what it seemed; bittersweet ache for what is past; ecological grief for destruction of nature; grief for losses society does not recognize"
+      },
+      {
+        "id": 30,
+        "name": "Anger, Rage, and Frustration",
+        "string": "Anger, Rage, and Frustration - strong displeasure at injustice betrayal or violation of values; uncontrolled explosive anger; anger from blocked goals repeated failure or powerlessness; aggressive opposition toward another"
+      },
+      {
+        "id": 31,
+        "name": "Resentment, Hatred, and Contempt",
+        "string": "Resentment, Hatred, and Contempt - chronic bitterness from past unfair treatment; deep intense aversion that consumes its holder; feeling of superiority and dismissal as the most corrosive relational emotion; passive aggression through silence sabotage or withdrawal"
+      },
+      {
+        "id": 32,
+        "name": "Jealousy, Envy, and Comparison",
+        "string": "Jealousy, Envy, and Comparison - fear of losing affection attention or position to a rival; desire for what others have combined with resentment; suffering from measuring oneself against others; peer comparison and social comparison culture"
+      },
+      {
+        "id": 33,
+        "name": "Pride, Arrogance, and Ego Inflation",
+        "string": "Pride, Arrogance, and Ego Inflation - destructive pride that prevents growth; exaggerated sense of superiority dismissing others; self-centered focus unable to see beyond personal interests; vanity and excessive concern with self-image and appearance"
+      },
+      {
+        "id": 34,
+        "name": "Narcissism, Hubris, and Status Obsession",
+        "string": "Narcissism, Hubris, and Status Obsession - deep entitlement inability to empathize and exploitation of others; dangerous overconfidence and belief one is exempt from consequences; tying self-worth entirely to social rank prestige or achievement; intellectual and spiritual arrogance"
+      },
+      {
+        "id": 35,
+        "name": "Confusion, Doubt, and Indecision",
+        "string": "Confusion, Doubt, and Indecision - lack of mental clarity about an important matter; lack of certainty about one's path beliefs or choices; inability to commit between options; hesitation due to fear or uncertainty"
+      },
+      {
+        "id": 36,
+        "name": "Overthinking, Mental Conflict, and Overwhelm",
+        "string": "Overthinking, Mental Conflict, and Overwhelm - compulsive repetitive thinking producing no resolution; struggle between opposing thoughts values or desires; inner turmoil as intense emotional disturbance; information overload from too much data or stimulus"
+      },
+      {
+        "id": 37,
+        "name": "Loss of Direction and Disorientation",
+        "string": "Loss of Direction and Disorientation - not knowing what to do next or where life is going; losing one's bearings in major life transition; existential confusion about what to believe value or build life upon"
+      },
+      {
+        "id": 38,
+        "name": "Identity Crisis and Existential Crisis",
+        "string": "Identity Crisis and Existential Crisis - loss of sense of who you are during transition or failure; confronting absence of inherent meaning; disillusionment when achievements feel hollow; who am I if I am no longer what I achieved; role confusion between parent professional child partner self"
+      },
+      {
+        "id": 39,
+        "name": "Purpose, Meaning, and Authenticity",
+        "string": "Purpose, Meaning, and Authenticity - searching for why you exist and what your life is for; courage to live according to one's true nature; inner transformation as genuine change in character; spiritual evolution as deepening of consciousness and compassionate perception"
+      },
+      {
+        "id": 40,
+        "name": "Mortality, Impermanence, and Suffering",
+        "string": "Mortality, Impermanence, and Suffering - certainty of death and how to live in its shadow; confronting fatal diagnosis and preparing for death; living with chronic pain and persistent physical suffering; truth that all things change and nothing can be held; universal dimension of pain in embodied existence"
+      },
+      {
+        "id": 41,
+        "name": "Trauma, PTSD, and Invisible Suffering",
+        "string": "Trauma, PTSD, and Invisible Suffering - lasting psychological wound from overwhelming experience; chronic alert and re-experiencing after traumatic events; suffering others cannot see; caregiver fatigue from caring for sick or dependent; survivor's guilt"
+      }
+    ]
+  },
+  {
+    "broad_category": "D. Inner Life — Positive and Aspirational States",
+    "description": "States of flourishing, virtue, and awakening — what one moves toward",
+    "subcategories": [
+      {
+        "id": 42,
+        "name": "Peace, Equanimity, and Inner Stability",
+        "string": "Peace, Equanimity, and Inner Stability - absence of inner disturbance; balanced mind receiving joy and sorrow with equal composure; deep quiet undisturbed by outer noise; profound calm not dependent on external conditions; rootedness allowing one to face change without being swept away"
+      },
+      {
+        "id": 43,
+        "name": "Stillness, Acceptance, and Groundedness",
+        "string": "Stillness, Acceptance, and Groundedness - capacity to simply be without agitation or compulsion; genuine peace with what is not resignation but clear-eyed presence; felt sense of being present embodied and connected to what is real; resilience as ability to absorb difficulty and return to equilibrium"
+      },
+      {
+        "id": 44,
+        "name": "Courage, Fearlessness, and Moral Courage",
+        "string": "Courage, Fearlessness, and Moral Courage - strength to face fear danger pain or uncertainty; spiritual courage rooted in knowledge of one's true nature; willingness to do what is right even when costly or unpopular; boldness to take necessary risks in service of truth"
+      },
+      {
+        "id": 45,
+        "name": "Determination, Perseverance, and Resilience",
+        "string": "Determination, Perseverance, and Resilience - firm resolve despite obstacles setbacks or discouragement; sustained effort without giving up; firmness of character under pressure; resilience after failure as returning to path and learning without self-destruction; starting over after complete disruption"
+      },
+      {
+        "id": 46,
+        "name": "Compassion, Empathy, and Universal Love",
+        "string": "Compassion, Empathy, and Universal Love - deep empathy with desire to relieve suffering; ability to understand and share another's feelings; love extended beyond personal bonds to all beings; kindness in small acts of consideration; tenderness toward what is fragile"
+      },
+      {
+        "id": 47,
+        "name": "Devotion, Forgiveness, and Relational Love",
+        "string": "Devotion, Forgiveness, and Relational Love - loving surrender to Divine guru or higher ideal; mercy and forgiveness as choosing healing over vengeance; parental unconditional love; friendship built on trust honesty and mutual care; romantic and intimate love with its joys and vulnerabilities"
+      },
+      {
+        "id": 48,
+        "name": "Joy, Bliss, and Contentment",
+        "string": "Joy, Bliss, and Contentment - intense present-moment happiness not dependent on achievement; profound spiritual happiness from union with self or Divine; satisfaction with what is and absence of compulsive wanting; deep sense of meaningful completion"
+      },
+      {
+        "id": 49,
+        "name": "Gratitude, Awe, and Reverence",
+        "string": "Gratitude, Awe, and Reverence - appreciation for life experiences and what is present; being moved by beauty vastness or sacred dimensions of existence; deep respect and humility before what is greater than oneself; awe and wonder as openings to the sacred"
+      },
+      {
+        "id": 50,
+        "name": "Discipline, Self-Control, and Tapas",
+        "string": "Discipline, Self-Control, and Tapas - consistent regulation of thought speech and behavior toward higher goals; mastery over senses emotions and impulses; spiritual austerity voluntarily undertaken for purification; power of repeated action and habit to shape character and destiny"
+      },
+      {
+        "id": 51,
+        "name": "Perfectionism, Procrastination, and Self-Mastery",
+        "string": "Perfectionism, Procrastination, and Self-Mastery - refusal to begin unless results meet an impossible standard; chronic avoidance driven by fear; willpower as disciplined mental force overriding impulse; overwhelm from more demands than one can process; work-life balance and academic pressure"
+      },
+      {
+        "id": 52,
+        "name": "Humility, Wisdom, and Discrimination",
+        "string": "Humility, Wisdom, and Discrimination - genuine absence of ego and openness to learning; deep understanding guiding right action; ability to distinguish real from unreal lasting from transient; freedom from need to be right"
+      },
+      {
+        "id": 53,
+        "name": "Surrender, Patience, and Service",
+        "string": "Surrender, Patience, and Service - releasing illusion of control and trusting higher intelligence; capacity to wait and remain present without compulsion; simplicity and freedom from unnecessary complexity; non-judgment as prerequisite for compassion; service and finding purpose through contribution"
+      }
+    ]
+  },
+  {
+    "broad_category": "E. Life in the World — Modern and Relational",
+    "description": "Concrete modern life situations — relationships, work, society — mapped onto Gita teachings",
+    "subcategories": [
+      {
+        "id": 54,
+        "name": "Heartbreak, Betrayal, and Relationship Breakdown",
+        "string": "Heartbreak, Betrayal, and Relationship Breakdown - end of significant relationship through separation or divorce; acute emotional pain from romantic loss rejection or betrayal; discovering that someone trusted has deceived or harmed you; entanglement with controlling abusive or manipulative people"
+      },
+      {
+        "id": 55,
+        "name": "Loneliness, Isolation, and Social Disconnection",
+        "string": "Loneliness, Isolation, and Social Disconnection - pain of being unseen unconnected or emotionally alone; enforced or chosen separation from community; digital loneliness despite being constantly connected; isolation in crowded environments"
+      },
+      {
+        "id": 56,
+        "name": "Family Conflict, Generational Tension, and Estrangement",
+        "string": "Family Conflict, Generational Tension, and Estrangement - loss of relationship with parents siblings or children; tension between parents and children over values choices and expectations; competing loyalties and family expectations causing internal conflict; parenting pressure and fear of failure as parent"
+      },
+      {
+        "id": 57,
+        "name": "Social Pressure, Conformity, and Peer Comparison",
+        "string": "Social Pressure, Conformity, and Peer Comparison - compulsion to match social norms at cost of authenticity; constant comparison with others leading to dissatisfaction; seeking external validation; suffering from measuring oneself against peers"
+      },
+      {
+        "id": 58,
+        "name": "Forgiveness, Reconciliation, and Trust Repair",
+        "string": "Forgiveness, Reconciliation, and Trust Repair - hard work of releasing grievance and rebuilding trust; choosing healing over vengeance; releasing bitterness without condoning harm; restoring connection after betrayal"
+      },
+      {
+        "id": 59,
+        "name": "Burnout, Career Dissatisfaction, and Purpose Loss",
+        "string": "Burnout, Career Dissatisfaction, and Purpose Loss - exhaustion from overwork and loss of meaning; feeling work is meaningless misaligned or wasted; doing what earns money but not knowing why; academic pressure and performance demands; work-life imbalance"
+      },
+      {
+        "id": 60,
+        "name": "Imposter Syndrome, Failure, and Success-Emptiness",
+        "string": "Imposter Syndrome, Failure, and Success-Emptiness - persistent feeling of not deserving one's position; achieving external goals and discovering they do not satisfy; experience of defeat rejection or significant loss; ambition and its cost in relationships health and integrity"
+      },
+      {
+        "id": 61,
+        "name": "Toxic Environments, Leadership Burden, and Workplace Conflict",
+        "string": "Toxic Environments, Leadership Burden, and Workplace Conflict - enduring hostile unfair or exploitative professional environments; weight of responsibility for others' wellbeing; professional rivalry and unfair treatment; unemployment and financial stress"
+      },
+      {
+        "id": 62,
+        "name": "Competitive Pressure, Social Comparison, and Ambition",
+        "string": "Competitive Pressure, Social Comparison, and Ambition - suffering from constant comparison rivalry and need to outperform; obsession with status rank and peer achievement; the trap of measuring self-worth by others' success"
+      },
+      {
+        "id": 63,
+        "name": "Social Injustice, Collective Trauma, and Helplessness",
+        "string": "Social Injustice, Collective Trauma, and Helplessness - witnessing or experiencing systemic discrimination oppression or violence; paralysis of facing problems too large for one person; political disillusionment and despair about institutions; war and collective violence; displacement and exile"
+      },
+      {
+        "id": 64,
+        "name": "Technology, Information Overload, and Modern Alienation",
+        "string": "Technology, Information Overload, and Modern Alienation - feeling reduced to a function data point or replaceable unit; living in a world where truth is contested and manipulated; distress about environmental collapse and uncertain future; suffering shared across a community generation or society"
+      }
+    ]
+  },
+  {
+    "broad_category": "F. Spiritual Seeking and the Sacred",
+    "description": "The spiritual path — devotion, grace, liberation, guru, and encounter with the divine",
+    "subcategories": [
+      {
+        "id": 65,
+        "name": "Spiritual Seeking, Purpose, and Meaning",
+        "string": "Spiritual Seeking, Purpose, and Meaning - drive to find truth meaning or God beyond the surface of life; searching for why one exists; existential questioning as genuine spiritual inquiry; the hunger that material success cannot satisfy"
+      },
+      {
+        "id": 66,
+        "name": "Guru, Guidance, and the Disciple Relationship",
+        "string": "Guru, Guidance, and the Disciple Relationship - sacred bond between spiritual teacher and sincere student; need for a guide when one cannot see clearly; receiving direction from inner wisdom scripture or teacher; completely placing oneself in the hands of a guru"
+      },
+      {
+        "id": 67,
+        "name": "Faith, Doubt, and Spiritual Crisis",
+        "string": "Faith, Doubt, and Spiritual Crisis - uncertainty about faith practice or existence of the Divine; productive tension between trust in the unseen and rational questioning; dark night of the soul as spiritual dryness or profound disorientation; spiritual doubt as doorway not dead end"
+      },
+      {
+        "id": 68,
+        "name": "Surrender, Grace, and Divine Intervention",
+        "string": "Surrender, Grace, and Divine Intervention - complete trust in divine will releasing control to higher power; unearned compassionate blessing enabling growth beyond one's own effort; sense that a higher force is acting in one's life; divine guidance through inner wisdom"
+      },
+      {
+        "id": 69,
+        "name": "Meditation, Awakening, and Inner Practice",
+        "string": "Meditation, Awakening, and Inner Practice - discipline of turning inward as path to truth and stability; sudden clarity fundamentally changing how one sees oneself and the world; gradual deepening of consciousness; transformation of character through sustained practice"
+      },
+      {
+        "id": 70,
+        "name": "Bondage, Liberation, and the Spiritual Path",
+        "string": "Bondage, Liberation, and the Spiritual Path - contrast between living trapped in ego and living in freedom; path toward moksha through practice knowledge and grace; spiritual evolution as movement from ignorance toward enlightened action"
+      }
+    ]
+  },
+  {
+    "broad_category": "G. Narrative and Contextual (Gita-Specific)",
+    "description": "Scene-setting and narrative shlokas — Arjuna's breakdown, battlefield context, cosmic vision — emotionally rich but without bhashya",
+    "subcategories": [
+      {
+        "id": 71,
+        "name": "Battlefield Crisis and Prelude to Conflict",
+        "string": "Battlefield Crisis and Prelude to Conflict - standing at threshold of overwhelming conflict with no clear way back; witnessing forces arrayed before inevitable confrontation; the charged moment before everything changes; leader surveying situation before decisive action; chaos of conflict beginning despite all wish for peace"
+      },
+      {
+        "id": 72,
+        "name": "Arjuna's Collapse — Grief, Paralysis, and Somatic Crisis",
+        "string": "Arjuna's Collapse - Grief, Paralysis, and Somatic Crisis - sudden inability to act at the crucial moment despite knowing one must; body expressing emotional collapse through physical symptoms of grief and shock; losing grip on one's instrument of purpose; moral paralysis frozen between duty and love; breaking down before one's teacher"
+      },
+      {
+        "id": 73,
+        "name": "Arjuna's Despair and Lamentation",
+        "string": "Arjuna's Despair and Lamentation - despair so deep that death feels preferable to action; mourning what will be lost before the loss has occurred; grief at the destruction of family and tradition; seeing loved ones as adversaries; false surrender from confusion rather than wisdom"
+      },
+      {
+        "id": 74,
+        "name": "Seeking Guidance in Crisis and Genuine Surrender",
+        "string": "Seeking Guidance in Crisis and Genuine Surrender - turning to teacher when one cannot see clearly; asking for help from position of complete collapse; genuine admission of helplessness acknowledging one cannot proceed without guidance; desperation as entry point into authentic spiritual inquiry"
+      },
+      {
+        "id": 75,
+        "name": "Cosmic Vision, Sacred Overwhelm, and Revelation",
+        "string": "Cosmic Vision, Sacred Overwhelm, and Revelation - being confronted with something far larger than oneself; divine revealing its true nature in a vision of reality so vast it is terrifying; overwhelm from perceiving totality of existence at once; scale revelation and sudden awareness of magnitude; receiving a vision one was not prepared for; confronting avoided truth"
+      }
+    ]
+  }
+]

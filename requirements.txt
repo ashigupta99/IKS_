@@ -1,0 +1,8 @@
+google-genai>=1.0.0
+numpy>=2.0.0
+scikit-learn>=1.7.0
+python-dotenv>=1.1.0
+groq
+streamlit
+langgraph
+langchain-core>=0.3.0

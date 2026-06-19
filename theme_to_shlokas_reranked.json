@@ -1,0 +1,2432 @@
+[
+  {
+    "theme_id": 1,
+    "theme_name": "Dharma and Cosmic Order",
+    "shlokas": [
+      {
+        "id": "4.7",
+        "rank": 1
+      },
+      {
+        "id": "18.31",
+        "rank": 2
+      },
+      {
+        "id": "2.31",
+        "rank": 3
+      },
+      {
+        "id": "4.8",
+        "rank": 4
+      },
+      {
+        "id": "18.34",
+        "rank": 5
+      }
+    ]
+  },
+  {
+    "theme_id": 2,
+    "theme_name": "Karma and Karma Phala",
+    "shlokas": [
+      {
+        "id": "2.47",
+        "rank": 1
+      },
+      {
+        "id": "4.14",
+        "rank": 2
+      },
+      {
+        "id": "18.23",
+        "rank": 3
+      },
+      {
+        "id": "18.12",
+        "rank": 4
+      },
+      {
+        "id": "5.11",
+        "rank": 5
+      }
+    ]
+  },
+  {
+    "theme_id": 3,
+    "theme_name": "The Four Paths of Yoga",
+    "shlokas": [
+      {
+        "id": "13.25",
+        "rank": 1
+      },
+      {
+        "id": "4.27",
+        "rank": 2
+      },
+      {
+        "id": "4.28",
+        "rank": 3
+      },
+      {
+        "id": "18.55",
+        "rank": 4
+      },
+      {
+        "id": "6.4",
+        "rank": 5
+      }
+    ]
+  },
+  {
+    "theme_id": 4,
+    "theme_name": "Atman, Brahman, and Self-Realization",
+    "shlokas": [
+      {
+        "id": "18.50",
+        "rank": 1
+      },
+      {
+        "id": "8.3",
+        "rank": 2
+      },
+      {
+        "id": "4.25",
+        "rank": 3
+      },
+      {
+        "id": "5.19",
+        "rank": 4
+      },
+      {
+        "id": "5.26",
+        "rank": 5
+      }
+    ]
+  },
+  {
+    "theme_id": 5,
+    "theme_name": "Maya, Avidya, and Ignorance",
+    "shlokas": [
+      {
+        "id": "13.3",
+        "rank": 1
+      },
+      {
+        "id": "13.12",
+        "rank": 2
+      },
+      {
+        "id": "7.25",
+        "rank": 3
+      },
+      {
+        "id": "7.13",
+        "rank": 4
+      },
+      {
+        "id": "14.8",
+        "rank": 5
+      }
+    ]
+  },
+  {
+    "theme_id": 6,
+    "theme_name": "Moksha, Samsara, and Liberation",
+    "shlokas": [
+      {
+        "id": "5.25",
+        "rank": 1
+      },
+      {
+        "id": "8.15",
+        "rank": 2
+      },
+      {
+        "id": "4.16",
+        "rank": 3
+      },
+      {
+        "id": "18.66",
+        "rank": 4
+      },
+      {
+        "id": "13.22",
+        "rank": 5
+      }
+    ]
+  },
+  {
+    "theme_id": 7,
+    "theme_name": "Detachment, Renunciation, and Vairagya",
+    "shlokas": [
+      {
+        "id": "13.10",
+        "rank": 1
+      },
+      {
+        "id": "6.4",
+        "rank": 2
+      },
+      {
+        "id": "13.9",
+        "rank": 3
+      },
+      {
+        "id": "18.49",
+        "rank": 4
+      },
+      {
+        "id": "18.9",
+        "rank": 5
+      }
+    ]
+  },
+  {
+    "theme_id": 8,
+    "theme_name": "Ego, Ahamkara, and False Identity",
+    "shlokas": [
+      {
+        "id": "3.27",
+        "rank": 1
+      },
+      {
+        "id": "13.9",
+        "rank": 2
+      },
+      {
+        "id": "7.4",
+        "rank": 3
+      },
+      {
+        "id": "18.58",
+        "rank": 4
+      },
+      {
+        "id": "3.37",
+        "rank": 5
+      },
+      {
+        "id": "6.5",
+        "rank": 6
+      },
+      {
+        "id": "2.71",
+        "rank": 7
+      },
+      {
+        "id": "16.3",
+        "rank": 8
+      }
+    ]
+  },
+  {
+    "theme_id": 9,
+    "theme_name": "Shraddha, Satya, and Ahimsa",
+    "shlokas": [
+      {
+        "id": "17.17",
+        "rank": 1
+      },
+      {
+        "id": "17.3",
+        "rank": 2
+      },
+      {
+        "id": "17.27",
+        "rank": 3
+      },
+      {
+        "id": "16.2",
+        "rank": 4
+      },
+      {
+        "id": "17.15",
+        "rank": 5
+      }
+    ]
+  },
+  {
+    "theme_id": 10,
+    "theme_name": "Yajna, Seva, and Selfless Contribution",
+    "shlokas": [
+      {
+        "id": "17.11",
+        "rank": 1
+      },
+      {
+        "id": "4.28",
+        "rank": 2
+      },
+      {
+        "id": "17.12",
+        "rank": 3
+      },
+      {
+        "id": "18.5",
+        "rank": 4
+      },
+      {
+        "id": "4.25",
+        "rank": 5
+      }
+    ]
+  },
+  {
+    "theme_id": 11,
+    "theme_name": "Samatva, Abhayam, and Equanimity",
+    "shlokas": [
+      {
+        "id": "2.56",
+        "rank": 1
+      },
+      {
+        "id": "10.4",
+        "rank": 2
+      },
+      {
+        "id": "13.10",
+        "rank": 3
+      },
+      {
+        "id": "16.1",
+        "rank": 4
+      },
+      {
+        "id": "2.48",
+        "rank": 5
+      }
+    ]
+  },
+  {
+    "theme_id": 12,
+    "theme_name": "Sattva, Rajas, and Tamas",
+    "shlokas": [
+      {
+        "id": "14.5",
+        "rank": 1
+      },
+      {
+        "id": "14.17",
+        "rank": 2
+      },
+      {
+        "id": "14.9",
+        "rank": 3
+      },
+      {
+        "id": "17.2",
+        "rank": 4
+      },
+      {
+        "id": "14.10",
+        "rank": 5
+      }
+    ]
+  },
+  {
+    "theme_id": 13,
+    "theme_name": "Rajasic Distress and Tamasic Suffering",
+    "shlokas": [
+      {
+        "id": "17.9",
+        "rank": 1
+      },
+      {
+        "id": "18.27",
+        "rank": 2
+      },
+      {
+        "id": "18.35",
+        "rank": 3
+      },
+      {
+        "id": "18.39",
+        "rank": 4
+      },
+      {
+        "id": "18.28",
+        "rank": 5
+      }
+    ]
+  },
+  {
+    "theme_id": 14,
+    "theme_name": "Duty, Obligation, and Righteous Action",
+    "shlokas": [
+      {
+        "id": "2.31",
+        "rank": 1
+      },
+      {
+        "id": "18.9",
+        "rank": 2
+      },
+      {
+        "id": "18.34",
+        "rank": 3
+      },
+      {
+        "id": "18.6",
+        "rank": 4
+      },
+      {
+        "id": "3.8",
+        "rank": 5
+      }
+    ]
+  },
+  {
+    "theme_id": 15,
+    "theme_name": "Action versus Inaction",
+    "shlokas": [
+      {
+        "id": "4.16",
+        "rank": 1
+      },
+      {
+        "id": "4.17",
+        "rank": 2
+      },
+      {
+        "id": "3.8",
+        "rank": 3
+      },
+      {
+        "id": "18.9",
+        "rank": 4
+      },
+      {
+        "id": "3.19",
+        "rank": 5
+      },
+      {
+        "id": "2.47",
+        "rank": 6
+      },
+      {
+        "id": "18.48",
+        "rank": 7
+      },
+      {
+        "id": "3.5",
+        "rank": 8
+      }
+    ]
+  },
+  {
+    "theme_id": 16,
+    "theme_name": "Burden of Choice and Decision",
+    "shlokas": [
+      {
+        "id": "3.35",
+        "rank": 1
+      },
+      {
+        "id": "18.47",
+        "rank": 2
+      },
+      {
+        "id": "2.41",
+        "rank": 3
+      },
+      {
+        "id": "18.48",
+        "rank": 4
+      },
+      {
+        "id": "4.15",
+        "rank": 5
+      },
+      {
+        "id": "18.9",
+        "rank": 6
+      },
+      {
+        "id": "3.19",
+        "rank": 7
+      },
+      {
+        "id": "2.47",
+        "rank": 8
+      }
+    ]
+  },
+  {
+    "theme_id": 17,
+    "theme_name": "Moral Conflict and Ethical Dilemma",
+    "shlokas": [
+      {
+        "id": "2.31",
+        "rank": 1
+      },
+      {
+        "id": "18.48",
+        "rank": 2
+      },
+      {
+        "id": "3.35",
+        "rank": 3
+      },
+      {
+        "id": "18.47",
+        "rank": 4
+      },
+      {
+        "id": "18.9",
+        "rank": 5
+      },
+      {
+        "id": "3.2",
+        "rank": 6
+      },
+      {
+        "id": "4.16",
+        "rank": 7
+      },
+      {
+        "id": "18.13",
+        "rank": 8
+      }
+    ]
+  },
+  {
+    "theme_id": 18,
+    "theme_name": "Violence, Non-Violence, and Just Action",
+    "shlokas": [
+      {
+        "id": "1.35",
+        "rank": 1
+      },
+      {
+        "id": "16.2",
+        "rank": 2
+      },
+      {
+        "id": "2.5",
+        "rank": 3
+      },
+      {
+        "id": "18.48",
+        "rank": 4
+      },
+      {
+        "id": "1.46",
+        "rank": 5
+      }
+    ]
+  },
+  {
+    "theme_id": 19,
+    "theme_name": "Corruption, Complicity, and Moral Injury",
+    "shlokas": [
+      {
+        "id": "16.1",
+        "rank": 1
+      },
+      {
+        "id": "16.2",
+        "rank": 2
+      },
+      {
+        "id": "16.3",
+        "rank": 3
+      },
+      {
+        "id": "3.19",
+        "rank": 4
+      },
+      {
+        "id": "4.7",
+        "rank": 5
+      },
+      {
+        "id": "4.8",
+        "rank": 6
+      },
+      {
+        "id": "18.9",
+        "rank": 7
+      },
+      {
+        "id": "13.8",
+        "rank": 8
+      }
+    ]
+  },
+  {
+    "theme_id": 20,
+    "theme_name": "Attachment, Clinging, and Possessiveness",
+    "shlokas": [
+      {
+        "id": "2.62",
+        "rank": 1
+      },
+      {
+        "id": "13.10",
+        "rank": 2
+      },
+      {
+        "id": "14.7",
+        "rank": 3
+      },
+      {
+        "id": "17.5",
+        "rank": 4
+      },
+      {
+        "id": "3.34",
+        "rank": 5
+      }
+    ]
+  },
+  {
+    "theme_id": 21,
+    "theme_name": "Desire, Craving, and Greed",
+    "shlokas": [
+      {
+        "id": "2.62",
+        "rank": 1
+      },
+      {
+        "id": "2.63",
+        "rank": 2
+      },
+      {
+        "id": "3.37",
+        "rank": 3
+      },
+      {
+        "id": "3.34",
+        "rank": 4
+      },
+      {
+        "id": "14.12",
+        "rank": 5
+      },
+      {
+        "id": "3.39",
+        "rank": 6
+      },
+      {
+        "id": "18.27",
+        "rank": 7
+      },
+      {
+        "id": "14.17",
+        "rank": 8
+      }
+    ]
+  },
+  {
+    "theme_id": 22,
+    "theme_name": "Addiction, Compulsion, and Digital Distraction",
+    "shlokas": [
+      {
+        "id": "2.60",
+        "rank": 1
+      },
+      {
+        "id": "2.62",
+        "rank": 2
+      },
+      {
+        "id": "2.63",
+        "rank": 3
+      },
+      {
+        "id": "6.35",
+        "rank": 4
+      },
+      {
+        "id": "3.34",
+        "rank": 5
+      },
+      {
+        "id": "6.26",
+        "rank": 6
+      },
+      {
+        "id": "18.35",
+        "rank": 7
+      },
+      {
+        "id": "2.56",
+        "rank": 8
+      }
+    ]
+  },
+  {
+    "theme_id": 23,
+    "theme_name": "Letting Go, Impermanence, and Renunciation",
+    "shlokas": [
+      {
+        "id": "15.3",
+        "rank": 1
+      },
+      {
+        "id": "2.14",
+        "rank": 2
+      },
+      {
+        "id": "13.10",
+        "rank": 3
+      },
+      {
+        "id": "18.49",
+        "rank": 4
+      },
+      {
+        "id": "6.4",
+        "rank": 5
+      },
+      {
+        "id": "2.59",
+        "rank": 6
+      },
+      {
+        "id": "18.9",
+        "rank": 7
+      },
+      {
+        "id": "13.9",
+        "rank": 8
+      }
+    ]
+  },
+  {
+    "theme_id": 24,
+    "theme_name": "Fear, Anxiety, and Insecurity",
+    "shlokas": [
+      {
+        "id": "2.56",
+        "rank": 1
+      },
+      {
+        "id": "2.14",
+        "rank": 2
+      },
+      {
+        "id": "2.15",
+        "rank": 3
+      },
+      {
+        "id": "16.1",
+        "rank": 4
+      },
+      {
+        "id": "18.33",
+        "rank": 5
+      },
+      {
+        "id": "2.40",
+        "rank": 6
+      },
+      {
+        "id": "6.35",
+        "rank": 7
+      },
+      {
+        "id": "2.65",
+        "rank": 8
+      }
+    ]
+  },
+  {
+    "theme_id": 25,
+    "theme_name": "Existential Dread, Fear of Death, and Fear of Failure",
+    "shlokas": [
+      {
+        "id": "2.14",
+        "rank": 1
+      },
+      {
+        "id": "2.40",
+        "rank": 2
+      },
+      {
+        "id": "2.15",
+        "rank": 3
+      },
+      {
+        "id": "18.66",
+        "rank": 4
+      },
+      {
+        "id": "2.56",
+        "rank": 5
+      },
+      {
+        "id": "2.65",
+        "rank": 6
+      },
+      {
+        "id": "18.33",
+        "rank": 7
+      },
+      {
+        "id": "16.1",
+        "rank": 8
+      }
+    ]
+  },
+  {
+    "theme_id": 26,
+    "theme_name": "Specific Anxieties",
+    "shlokas": [
+      {
+        "id": "2.56",
+        "rank": 1
+      },
+      {
+        "id": "2.14",
+        "rank": 2
+      },
+      {
+        "id": "6.35",
+        "rank": 3
+      },
+      {
+        "id": "2.60",
+        "rank": 4
+      },
+      {
+        "id": "2.40",
+        "rank": 5
+      },
+      {
+        "id": "16.1",
+        "rank": 6
+      },
+      {
+        "id": "18.33",
+        "rank": 7
+      },
+      {
+        "id": "2.65",
+        "rank": 8
+      }
+    ]
+  },
+  {
+    "theme_id": 27,
+    "theme_name": "Grief, Loss, and Bereavement",
+    "shlokas": [
+      {
+        "id": "2.13",
+        "rank": 1
+      },
+      {
+        "id": "2.20",
+        "rank": 2
+      },
+      {
+        "id": "2.25",
+        "rank": 3
+      },
+      {
+        "id": "13.9",
+        "rank": 4
+      },
+      {
+        "id": "18.54",
+        "rank": 5
+      },
+      {
+        "id": "2.56",
+        "rank": 6
+      },
+      {
+        "id": "6.9",
+        "rank": 7
+      },
+      {
+        "id": "9.22",
+        "rank": 8
+      }
+    ]
+  },
+  {
+    "theme_id": 28,
+    "theme_name": "Sorrow, Despair, and Hopelessness",
+    "shlokas": [
+      {
+        "id": "2.14",
+        "rank": 1
+      },
+      {
+        "id": "2.65",
+        "rank": 2
+      },
+      {
+        "id": "18.54",
+        "rank": 3
+      },
+      {
+        "id": "9.22",
+        "rank": 4
+      },
+      {
+        "id": "6.9",
+        "rank": 5
+      },
+      {
+        "id": "2.56",
+        "rank": 6
+      },
+      {
+        "id": "13.9",
+        "rank": 7
+      },
+      {
+        "id": "2.15",
+        "rank": 8
+      }
+    ]
+  },
+  {
+    "theme_id": 29,
+    "theme_name": "Disillusionment, Dejection, and Nostalgia",
+    "shlokas": [
+      {
+        "id": "13.9",
+        "rank": 1
+      },
+      {
+        "id": "2.14",
+        "rank": 2
+      },
+      {
+        "id": "2.59",
+        "rank": 3
+      },
+      {
+        "id": "18.54",
+        "rank": 4
+      },
+      {
+        "id": "2.56",
+        "rank": 5
+      },
+      {
+        "id": "2.65",
+        "rank": 6
+      },
+      {
+        "id": "6.9",
+        "rank": 7
+      },
+      {
+        "id": "9.22",
+        "rank": 8
+      }
+    ]
+  },
+  {
+    "theme_id": 30,
+    "theme_name": "Anger, Rage, and Frustration",
+    "shlokas": [
+      {
+        "id": "3.37",
+        "rank": 1
+      },
+      {
+        "id": "2.62",
+        "rank": 2
+      },
+      {
+        "id": "2.63",
+        "rank": 3
+      },
+      {
+        "id": "16.2",
+        "rank": 4
+      },
+      {
+        "id": "3.34",
+        "rank": 5
+      },
+      {
+        "id": "6.35",
+        "rank": 6
+      },
+      {
+        "id": "16.3",
+        "rank": 7
+      },
+      {
+        "id": "2.56",
+        "rank": 8
+      }
+    ]
+  },
+  {
+    "theme_id": 31,
+    "theme_name": "Resentment, Hatred, and Contempt",
+    "shlokas": [
+      {
+        "id": "3.37",
+        "rank": 1
+      },
+      {
+        "id": "3.34",
+        "rank": 2
+      },
+      {
+        "id": "16.2",
+        "rank": 3
+      },
+      {
+        "id": "16.3",
+        "rank": 4
+      },
+      {
+        "id": "6.9",
+        "rank": 5
+      },
+      {
+        "id": "2.56",
+        "rank": 6
+      },
+      {
+        "id": "12.13",
+        "rank": 7
+      },
+      {
+        "id": "2.71",
+        "rank": 8
+      }
+    ]
+  },
+  {
+    "theme_id": 32,
+    "theme_name": "Jealousy, Envy, and Comparison",
+    "shlokas": [
+      {
+        "id": "2.62",
+        "rank": 1
+      },
+      {
+        "id": "2.63",
+        "rank": 2
+      },
+      {
+        "id": "3.34",
+        "rank": 3
+      },
+      {
+        "id": "16.2",
+        "rank": 4
+      },
+      {
+        "id": "6.9",
+        "rank": 5
+      },
+      {
+        "id": "14.17",
+        "rank": 6
+      },
+      {
+        "id": "2.56",
+        "rank": 7
+      },
+      {
+        "id": "3.39",
+        "rank": 8
+      }
+    ]
+  },
+  {
+    "theme_id": 33,
+    "theme_name": "Pride, Arrogance, and Ego Inflation",
+    "shlokas": [
+      {
+        "id": "16.4",
+        "rank": 1
+      },
+      {
+        "id": "3.27",
+        "rank": 2
+      },
+      {
+        "id": "18.58",
+        "rank": 3
+      },
+      {
+        "id": "13.8",
+        "rank": 4
+      },
+      {
+        "id": "6.5",
+        "rank": 5
+      },
+      {
+        "id": "2.71",
+        "rank": 6
+      },
+      {
+        "id": "16.3",
+        "rank": 7
+      },
+      {
+        "id": "3.34",
+        "rank": 8
+      }
+    ]
+  },
+  {
+    "theme_id": 34,
+    "theme_name": "Narcissism, Hubris, and Status Obsession",
+    "shlokas": [
+      {
+        "id": "16.4",
+        "rank": 1
+      },
+      {
+        "id": "3.27",
+        "rank": 2
+      },
+      {
+        "id": "18.58",
+        "rank": 3
+      },
+      {
+        "id": "16.3",
+        "rank": 4
+      },
+      {
+        "id": "13.8",
+        "rank": 5
+      },
+      {
+        "id": "6.5",
+        "rank": 6
+      },
+      {
+        "id": "16.1",
+        "rank": 7
+      },
+      {
+        "id": "2.71",
+        "rank": 8
+      }
+    ]
+  },
+  {
+    "theme_id": 35,
+    "theme_name": "Confusion, Doubt, and Indecision",
+    "shlokas": [
+      {
+        "id": "2.7",
+        "rank": 1
+      },
+      {
+        "id": "4.40",
+        "rank": 2
+      },
+      {
+        "id": "3.2",
+        "rank": 3
+      },
+      {
+        "id": "4.34",
+        "rank": 4
+      },
+      {
+        "id": "18.66",
+        "rank": 5
+      },
+      {
+        "id": "6.39",
+        "rank": 6
+      },
+      {
+        "id": "2.41",
+        "rank": 7
+      },
+      {
+        "id": "3.35",
+        "rank": 8
+      }
+    ]
+  },
+  {
+    "theme_id": 36,
+    "theme_name": "Overthinking, Mental Conflict, and Overwhelm",
+    "shlokas": [
+      {
+        "id": "2.41",
+        "rank": 1
+      },
+      {
+        "id": "2.60",
+        "rank": 2
+      },
+      {
+        "id": "6.35",
+        "rank": 3
+      },
+      {
+        "id": "6.26",
+        "rank": 4
+      },
+      {
+        "id": "6.34",
+        "rank": 5
+      },
+      {
+        "id": "2.56",
+        "rank": 6
+      },
+      {
+        "id": "6.5",
+        "rank": 7
+      },
+      {
+        "id": "2.44",
+        "rank": 8
+      }
+    ]
+  },
+  {
+    "theme_id": 37,
+    "theme_name": "Loss of Direction and Disorientation",
+    "shlokas": [
+      {
+        "id": "3.35",
+        "rank": 1
+      },
+      {
+        "id": "18.47",
+        "rank": 2
+      },
+      {
+        "id": "7.3",
+        "rank": 3
+      },
+      {
+        "id": "15.4",
+        "rank": 4
+      },
+      {
+        "id": "6.38",
+        "rank": 5
+      },
+      {
+        "id": "4.34",
+        "rank": 6
+      },
+      {
+        "id": "18.45",
+        "rank": 7
+      },
+      {
+        "id": "2.47",
+        "rank": 8
+      }
+    ]
+  },
+  {
+    "theme_id": 38,
+    "theme_name": "Identity Crisis and Existential Crisis",
+    "shlokas": [
+      {
+        "id": "2.13",
+        "rank": 1
+      },
+      {
+        "id": "13.9",
+        "rank": 2
+      },
+      {
+        "id": "15.3",
+        "rank": 3
+      },
+      {
+        "id": "3.35",
+        "rank": 4
+      },
+      {
+        "id": "6.5",
+        "rank": 5
+      },
+      {
+        "id": "2.20",
+        "rank": 6
+      },
+      {
+        "id": "18.54",
+        "rank": 7
+      },
+      {
+        "id": "2.56",
+        "rank": 8
+      }
+    ]
+  },
+  {
+    "theme_id": 39,
+    "theme_name": "Purpose, Meaning, and Authenticity",
+    "shlokas": [
+      {
+        "id": "7.3",
+        "rank": 1
+      },
+      {
+        "id": "18.55",
+        "rank": 2
+      },
+      {
+        "id": "17.16",
+        "rank": 3
+      },
+      {
+        "id": "15.16",
+        "rank": 4
+      },
+      {
+        "id": "7.9",
+        "rank": 5
+      }
+    ]
+  },
+  {
+    "theme_id": 40,
+    "theme_name": "Mortality, Impermanence, and Suffering",
+    "shlokas": [
+      {
+        "id": "2.13",
+        "rank": 1
+      },
+      {
+        "id": "2.20",
+        "rank": 2
+      },
+      {
+        "id": "2.14",
+        "rank": 3
+      },
+      {
+        "id": "2.15",
+        "rank": 4
+      },
+      {
+        "id": "13.9",
+        "rank": 5
+      },
+      {
+        "id": "2.25",
+        "rank": 6
+      },
+      {
+        "id": "18.54",
+        "rank": 7
+      },
+      {
+        "id": "2.56",
+        "rank": 8
+      }
+    ]
+  },
+  {
+    "theme_id": 41,
+    "theme_name": "Trauma, PTSD, and Invisible Suffering",
+    "shlokas": [
+      {
+        "id": "2.14",
+        "rank": 1
+      },
+      {
+        "id": "2.15",
+        "rank": 2
+      },
+      {
+        "id": "2.20",
+        "rank": 3
+      },
+      {
+        "id": "2.25",
+        "rank": 4
+      },
+      {
+        "id": "13.9",
+        "rank": 5
+      },
+      {
+        "id": "2.56",
+        "rank": 6
+      },
+      {
+        "id": "18.54",
+        "rank": 7
+      },
+      {
+        "id": "2.65",
+        "rank": 8
+      }
+    ]
+  },
+  {
+    "theme_id": 42,
+    "theme_name": "Peace, Equanimity, and Inner Stability",
+    "shlokas": [
+      {
+        "id": "2.56",
+        "rank": 1
+      },
+      {
+        "id": "6.15",
+        "rank": 2
+      },
+      {
+        "id": "18.33",
+        "rank": 3
+      },
+      {
+        "id": "2.65",
+        "rank": 4
+      },
+      {
+        "id": "2.66",
+        "rank": 5
+      }
+    ]
+  },
+  {
+    "theme_id": 43,
+    "theme_name": "Stillness, Acceptance, and Groundedness",
+    "shlokas": [
+      {
+        "id": "2.56",
+        "rank": 1
+      },
+      {
+        "id": "18.33",
+        "rank": 2
+      },
+      {
+        "id": "18.26",
+        "rank": 3
+      },
+      {
+        "id": "17.16",
+        "rank": 4
+      },
+      {
+        "id": "14.5",
+        "rank": 5
+      }
+    ]
+  },
+  {
+    "theme_id": 44,
+    "theme_name": "Courage, Fearlessness, and Moral Courage",
+    "shlokas": [
+      {
+        "id": "10.4",
+        "rank": 1
+      },
+      {
+        "id": "16.1",
+        "rank": 2
+      },
+      {
+        "id": "18.43",
+        "rank": 3
+      },
+      {
+        "id": "18.30",
+        "rank": 4
+      },
+      {
+        "id": "16.2",
+        "rank": 5
+      }
+    ]
+  },
+  {
+    "theme_id": 45,
+    "theme_name": "Determination, Perseverance, and Resilience",
+    "shlokas": [
+      {
+        "id": "18.33",
+        "rank": 1
+      },
+      {
+        "id": "6.23",
+        "rank": 2
+      },
+      {
+        "id": "18.26",
+        "rank": 3
+      },
+      {
+        "id": "18.35",
+        "rank": 4
+      },
+      {
+        "id": "18.34",
+        "rank": 5
+      }
+    ]
+  },
+  {
+    "theme_id": 46,
+    "theme_name": "Compassion, Empathy, and Universal Love",
+    "shlokas": [
+      {
+        "id": "16.2",
+        "rank": 1
+      },
+      {
+        "id": "12.13",
+        "rank": 2
+      },
+      {
+        "id": "10.4",
+        "rank": 3
+      },
+      {
+        "id": "6.9",
+        "rank": 4
+      },
+      {
+        "id": "10.5",
+        "rank": 5
+      }
+    ]
+  },
+  {
+    "theme_id": 47,
+    "theme_name": "Devotion, Forgiveness, and Relational Love",
+    "shlokas": [
+      {
+        "id": "11.44",
+        "rank": 1
+      },
+      {
+        "id": "12.13",
+        "rank": 2
+      },
+      {
+        "id": "9.29",
+        "rank": 3
+      },
+      {
+        "id": "12.17",
+        "rank": 4
+      },
+      {
+        "id": "12.20",
+        "rank": 5
+      }
+    ]
+  },
+  {
+    "theme_id": 48,
+    "theme_name": "Joy, Bliss, and Contentment",
+    "shlokas": [
+      {
+        "id": "6.21",
+        "rank": 1
+      },
+      {
+        "id": "6.27",
+        "rank": 2
+      },
+      {
+        "id": "10.9",
+        "rank": 3
+      },
+      {
+        "id": "2.65",
+        "rank": 4
+      },
+      {
+        "id": "6.28",
+        "rank": 5
+      }
+    ]
+  },
+  {
+    "theme_id": 49,
+    "theme_name": "Gratitude, Awe, and Reverence",
+    "shlokas": [
+      {
+        "id": "11.14",
+        "rank": 1
+      },
+      {
+        "id": "11.39",
+        "rank": 2
+      },
+      {
+        "id": "18.77",
+        "rank": 3
+      },
+      {
+        "id": "13.8",
+        "rank": 4
+      },
+      {
+        "id": "11.40",
+        "rank": 5
+      }
+    ]
+  },
+  {
+    "theme_id": 50,
+    "theme_name": "Discipline, Self-Control, and Tapas",
+    "shlokas": [
+      {
+        "id": "17.16",
+        "rank": 1
+      },
+      {
+        "id": "6.35",
+        "rank": 2
+      },
+      {
+        "id": "18.52",
+        "rank": 3
+      },
+      {
+        "id": "17.15",
+        "rank": 4
+      },
+      {
+        "id": "17.14",
+        "rank": 5
+      }
+    ]
+  },
+  {
+    "theme_id": 51,
+    "theme_name": "Perfectionism, Procrastination, and Self-Mastery",
+    "shlokas": [
+      {
+        "id": "17.16",
+        "rank": 1
+      },
+      {
+        "id": "18.30",
+        "rank": 2
+      },
+      {
+        "id": "18.33",
+        "rank": 3
+      },
+      {
+        "id": "6.35",
+        "rank": 4
+      },
+      {
+        "id": "3.19",
+        "rank": 5
+      },
+      {
+        "id": "2.47",
+        "rank": 6
+      },
+      {
+        "id": "18.26",
+        "rank": 7
+      },
+      {
+        "id": "6.23",
+        "rank": 8
+      }
+    ]
+  },
+  {
+    "theme_id": 52,
+    "theme_name": "Humility, Wisdom, and Discrimination",
+    "shlokas": [
+      {
+        "id": "13.8",
+        "rank": 1
+      },
+      {
+        "id": "5.18",
+        "rank": 2
+      },
+      {
+        "id": "2.56",
+        "rank": 3
+      },
+      {
+        "id": "2.57",
+        "rank": 4
+      },
+      {
+        "id": "16.1",
+        "rank": 5
+      }
+    ]
+  },
+  {
+    "theme_id": 53,
+    "theme_name": "Surrender, Patience, and Service",
+    "shlokas": [
+      {
+        "id": "13.8",
+        "rank": 1
+      },
+      {
+        "id": "17.16",
+        "rank": 2
+      },
+      {
+        "id": "12.12",
+        "rank": 3
+      },
+      {
+        "id": "18.62",
+        "rank": 4
+      },
+      {
+        "id": "18.66",
+        "rank": 5
+      },
+      {
+        "id": "9.22",
+        "rank": 6
+      },
+      {
+        "id": "16.3",
+        "rank": 7
+      },
+      {
+        "id": "12.13",
+        "rank": 8
+      }
+    ]
+  },
+  {
+    "theme_id": 54,
+    "theme_name": "Heartbreak, Betrayal, and Relationship Breakdown",
+    "shlokas": [
+      {
+        "id": "2.14",
+        "rank": 1
+      },
+      {
+        "id": "2.15",
+        "rank": 2
+      },
+      {
+        "id": "12.13",
+        "rank": 3
+      },
+      {
+        "id": "2.56",
+        "rank": 4
+      },
+      {
+        "id": "2.57",
+        "rank": 5
+      },
+      {
+        "id": "6.9",
+        "rank": 6
+      },
+      {
+        "id": "18.54",
+        "rank": 7
+      },
+      {
+        "id": "13.9",
+        "rank": 8
+      }
+    ]
+  },
+  {
+    "theme_id": 55,
+    "theme_name": "Loneliness, Isolation, and Social Disconnection",
+    "shlokas": [
+      {
+        "id": "6.9",
+        "rank": 1
+      },
+      {
+        "id": "12.13",
+        "rank": 2
+      },
+      {
+        "id": "13.11",
+        "rank": 3
+      },
+      {
+        "id": "5.22",
+        "rank": 4
+      },
+      {
+        "id": "2.56",
+        "rank": 5
+      },
+      {
+        "id": "9.29",
+        "rank": 6
+      },
+      {
+        "id": "6.29",
+        "rank": 7
+      },
+      {
+        "id": "13.9",
+        "rank": 8
+      }
+    ]
+  },
+  {
+    "theme_id": 56,
+    "theme_name": "Family Conflict, Generational Tension, and Estrangement",
+    "shlokas": [
+      {
+        "id": "3.35",
+        "rank": 1
+      },
+      {
+        "id": "18.47",
+        "rank": 2
+      },
+      {
+        "id": "6.5",
+        "rank": 3
+      },
+      {
+        "id": "16.3",
+        "rank": 4
+      },
+      {
+        "id": "12.13",
+        "rank": 5
+      },
+      {
+        "id": "18.48",
+        "rank": 6
+      },
+      {
+        "id": "18.9",
+        "rank": 7
+      },
+      {
+        "id": "2.47",
+        "rank": 8
+      }
+    ]
+  },
+  {
+    "theme_id": 57,
+    "theme_name": "Social Pressure, Conformity, and Peer Comparison",
+    "shlokas": [
+      {
+        "id": "2.41",
+        "rank": 1
+      },
+      {
+        "id": "3.35",
+        "rank": 2
+      },
+      {
+        "id": "13.9",
+        "rank": 3
+      },
+      {
+        "id": "2.56",
+        "rank": 4
+      },
+      {
+        "id": "18.47",
+        "rank": 5
+      },
+      {
+        "id": "16.3",
+        "rank": 6
+      },
+      {
+        "id": "2.57",
+        "rank": 7
+      },
+      {
+        "id": "6.9",
+        "rank": 8
+      }
+    ]
+  },
+  {
+    "theme_id": 58,
+    "theme_name": "Forgiveness, Reconciliation, and Trust Repair",
+    "shlokas": [
+      {
+        "id": "11.44",
+        "rank": 1
+      },
+      {
+        "id": "11.42",
+        "rank": 2
+      },
+      {
+        "id": "16.3",
+        "rank": 3
+      },
+      {
+        "id": "16.2",
+        "rank": 4
+      },
+      {
+        "id": "12.13",
+        "rank": 5
+      },
+      {
+        "id": "9.29",
+        "rank": 6
+      },
+      {
+        "id": "18.54",
+        "rank": 7
+      },
+      {
+        "id": "12.17",
+        "rank": 8
+      }
+    ]
+  },
+  {
+    "theme_id": 59,
+    "theme_name": "Burnout, Career Dissatisfaction, and Purpose Loss",
+    "shlokas": [
+      {
+        "id": "3.35",
+        "rank": 1
+      },
+      {
+        "id": "18.47",
+        "rank": 2
+      },
+      {
+        "id": "18.45",
+        "rank": 3
+      },
+      {
+        "id": "2.47",
+        "rank": 4
+      },
+      {
+        "id": "3.19",
+        "rank": 5
+      },
+      {
+        "id": "18.46",
+        "rank": 6
+      },
+      {
+        "id": "18.9",
+        "rank": 7
+      },
+      {
+        "id": "6.17",
+        "rank": 8
+      }
+    ]
+  },
+  {
+    "theme_id": 60,
+    "theme_name": "Imposter Syndrome, Failure, and Success-Emptiness",
+    "shlokas": [
+      {
+        "id": "2.47",
+        "rank": 1
+      },
+      {
+        "id": "3.35",
+        "rank": 2
+      },
+      {
+        "id": "18.47",
+        "rank": 3
+      },
+      {
+        "id": "18.48",
+        "rank": 4
+      },
+      {
+        "id": "18.45",
+        "rank": 5
+      },
+      {
+        "id": "3.19",
+        "rank": 6
+      },
+      {
+        "id": "2.48",
+        "rank": 7
+      },
+      {
+        "id": "18.26",
+        "rank": 8
+      }
+    ]
+  },
+  {
+    "theme_id": 61,
+    "theme_name": "Toxic Environments, Leadership Burden, and Workplace Conflict",
+    "shlokas": [
+      {
+        "id": "2.47",
+        "rank": 1
+      },
+      {
+        "id": "3.35",
+        "rank": 2
+      },
+      {
+        "id": "18.47",
+        "rank": 3
+      },
+      {
+        "id": "16.3",
+        "rank": 4
+      },
+      {
+        "id": "6.5",
+        "rank": 5
+      },
+      {
+        "id": "3.19",
+        "rank": 6
+      },
+      {
+        "id": "18.45",
+        "rank": 7
+      },
+      {
+        "id": "2.48",
+        "rank": 8
+      }
+    ]
+  },
+  {
+    "theme_id": 62,
+    "theme_name": "Competitive Pressure, Social Comparison, and Ambition",
+    "shlokas": [
+      {
+        "id": "2.47",
+        "rank": 1
+      },
+      {
+        "id": "2.48",
+        "rank": 2
+      },
+      {
+        "id": "3.35",
+        "rank": 3
+      },
+      {
+        "id": "14.12",
+        "rank": 4
+      },
+      {
+        "id": "16.3",
+        "rank": 5
+      },
+      {
+        "id": "18.45",
+        "rank": 6
+      },
+      {
+        "id": "3.19",
+        "rank": 7
+      },
+      {
+        "id": "18.26",
+        "rank": 8
+      }
+    ]
+  },
+  {
+    "theme_id": 63,
+    "theme_name": "Social Injustice, Collective Trauma, and Helplessness",
+    "shlokas": [
+      {
+        "id": "4.7",
+        "rank": 1
+      },
+      {
+        "id": "4.8",
+        "rank": 2
+      },
+      {
+        "id": "16.2",
+        "rank": 3
+      },
+      {
+        "id": "18.48",
+        "rank": 4
+      },
+      {
+        "id": "3.19",
+        "rank": 5
+      },
+      {
+        "id": "16.3",
+        "rank": 6
+      },
+      {
+        "id": "4.16",
+        "rank": 7
+      },
+      {
+        "id": "18.9",
+        "rank": 8
+      }
+    ]
+  },
+  {
+    "theme_id": 64,
+    "theme_name": "Technology, Information Overload, and Modern Alienation",
+    "shlokas": [
+      {
+        "id": "2.41",
+        "rank": 1
+      },
+      {
+        "id": "2.60",
+        "rank": 2
+      },
+      {
+        "id": "6.35",
+        "rank": 3
+      },
+      {
+        "id": "2.56",
+        "rank": 4
+      },
+      {
+        "id": "6.26",
+        "rank": 5
+      },
+      {
+        "id": "2.62",
+        "rank": 6
+      },
+      {
+        "id": "6.5",
+        "rank": 7
+      },
+      {
+        "id": "2.65",
+        "rank": 8
+      }
+    ]
+  },
+  {
+    "theme_id": 65,
+    "theme_name": "Spiritual Seeking, Purpose, and Meaning",
+    "shlokas": [
+      {
+        "id": "15.4",
+        "rank": 1
+      },
+      {
+        "id": "13.1",
+        "rank": 2
+      },
+      {
+        "id": "18.55",
+        "rank": 3
+      },
+      {
+        "id": "18.50",
+        "rank": 4
+      },
+      {
+        "id": "8.3",
+        "rank": 5
+      }
+    ]
+  },
+  {
+    "theme_id": 66,
+    "theme_name": "Guru, Guidance, and the Disciple Relationship",
+    "shlokas": [
+      {
+        "id": "2.7",
+        "rank": 1
+      },
+      {
+        "id": "4.34",
+        "rank": 2
+      },
+      {
+        "id": "10.11",
+        "rank": 3
+      },
+      {
+        "id": "1.3",
+        "rank": 4
+      },
+      {
+        "id": "18.72",
+        "rank": 5
+      }
+    ]
+  },
+  {
+    "theme_id": 67,
+    "theme_name": "Faith, Doubt, and Spiritual Crisis",
+    "shlokas": [
+      {
+        "id": "2.7",
+        "rank": 1
+      },
+      {
+        "id": "17.1",
+        "rank": 2
+      },
+      {
+        "id": "4.40",
+        "rank": 3
+      },
+      {
+        "id": "6.39",
+        "rank": 4
+      },
+      {
+        "id": "18.66",
+        "rank": 5
+      },
+      {
+        "id": "17.3",
+        "rank": 6
+      },
+      {
+        "id": "4.34",
+        "rank": 7
+      },
+      {
+        "id": "12.12",
+        "rank": 8
+      }
+    ]
+  },
+  {
+    "theme_id": 68,
+    "theme_name": "Surrender, Grace, and Divine Intervention",
+    "shlokas": [
+      {
+        "id": "10.4",
+        "rank": 1
+      },
+      {
+        "id": "18.75",
+        "rank": 2
+      },
+      {
+        "id": "4.9",
+        "rank": 3
+      },
+      {
+        "id": "18.62",
+        "rank": 4
+      },
+      {
+        "id": "9.22",
+        "rank": 5
+      }
+    ]
+  },
+  {
+    "theme_id": 69,
+    "theme_name": "Meditation, Awakening, and Inner Practice",
+    "shlokas": [
+      {
+        "id": "6.19",
+        "rank": 1
+      },
+      {
+        "id": "6.20",
+        "rank": 2
+      },
+      {
+        "id": "13.25",
+        "rank": 3
+      },
+      {
+        "id": "8.8",
+        "rank": 4
+      },
+      {
+        "id": "18.52",
+        "rank": 5
+      }
+    ]
+  },
+  {
+    "theme_id": 70,
+    "theme_name": "Bondage, Liberation, and the Spiritual Path",
+    "shlokas": [
+      {
+        "id": "18.66",
+        "rank": 1
+      },
+      {
+        "id": "18.17",
+        "rank": 2
+      },
+      {
+        "id": "4.16",
+        "rank": 3
+      },
+      {
+        "id": "2.51",
+        "rank": 4
+      },
+      {
+        "id": "18.54",
+        "rank": 5
+      },
+      {
+        "id": "2.59",
+        "rank": 6
+      },
+      {
+        "id": "6.9",
+        "rank": 7
+      },
+      {
+        "id": "13.9",
+        "rank": 8
+      }
+    ]
+  },
+  {
+    "theme_id": 71,
+    "theme_name": "Battlefield Crisis and Prelude to Conflict",
+    "shlokas": [
+      {
+        "id": "2.6",
+        "rank": 1
+      },
+      {
+        "id": "1.21",
+        "rank": 2
+      },
+      {
+        "id": "1.28",
+        "rank": 3
+      },
+      {
+        "id": "1.22",
+        "rank": 4
+      },
+      {
+        "id": "1.1",
+        "rank": 5
+      }
+    ]
+  },
+  {
+    "theme_id": 72,
+    "theme_name": "Arjuna's Collapse — Grief, Paralysis, and Somatic Crisis",
+    "shlokas": [
+      {
+        "id": "1.47",
+        "rank": 1
+      },
+      {
+        "id": "2.11",
+        "rank": 2
+      },
+      {
+        "id": "1.30",
+        "rank": 3
+      },
+      {
+        "id": "2.2",
+        "rank": 4
+      },
+      {
+        "id": "1.27",
+        "rank": 5
+      }
+    ]
+  },
+  {
+    "theme_id": 73,
+    "theme_name": "Arjuna's Despair and Lamentation",
+    "shlokas": [
+      {
+        "id": "1.47",
+        "rank": 1
+      },
+      {
+        "id": "1.27",
+        "rank": 2
+      },
+      {
+        "id": "2.2",
+        "rank": 3
+      },
+      {
+        "id": "2.11",
+        "rank": 4
+      },
+      {
+        "id": "2.1",
+        "rank": 5
+      }
+    ]
+  },
+  {
+    "theme_id": 74,
+    "theme_name": "Seeking Guidance in Crisis and Genuine Surrender",
+    "shlokas": [
+      {
+        "id": "2.7",
+        "rank": 1
+      },
+      {
+        "id": "4.34",
+        "rank": 2
+      },
+      {
+        "id": "6.39",
+        "rank": 3
+      },
+      {
+        "id": "15.4",
+        "rank": 4
+      },
+      {
+        "id": "18.58",
+        "rank": 5
+      }
+    ]
+  },
+  {
+    "theme_id": 75,
+    "theme_name": "Cosmic Vision, Sacred Overwhelm, and Revelation",
+    "shlokas": [
+      {
+        "id": "11.24",
+        "rank": 1
+      },
+      {
+        "id": "11.20",
+        "rank": 2
+      },
+      {
+        "id": "11.23",
+        "rank": 3
+      },
+      {
+        "id": "11.45",
+        "rank": 4
+      },
+      {
+        "id": "11.16",
+        "rank": 5
+      }
+    ]
+  }
+]
